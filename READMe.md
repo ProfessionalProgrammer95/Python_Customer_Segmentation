@@ -22,7 +22,7 @@ This project demonstrates customer segmentation using K-Means clustering on synt
 
 ## Installation
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/ProfessionalProgrammer95/Python_Customer_Segmentation.git
    cd customer-segmentation
    
