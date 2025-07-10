@@ -1,0 +1,25 @@
+Requirements
+The requirements.txt file should contain:
+
+
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+scipy>=1.7.0
+License
+This project is open source, available under the MIT License.
+
+Contact
+For questions or contributions, please contact Rakshithav1358@gmail.com.
+
+
+
+### Key Features of this README:
+1. Clear project description and features
+2. Complete installation instructions
+3. Usage guide
+4. File structure overview
+5. Results interpretation help
+6. Customization options
+7. License and contact information
